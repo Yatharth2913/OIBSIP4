@@ -40,7 +40,7 @@ SMS Spam Collection Dataset
 ---
 
 ## Project Files
-- YatharthDeaale_Task3.py → Main Python code
+- internship.py → Main Python code
 - README.md → Project documentation
 - requirements.txt → Required libraries
 - spam.csv → Dataset file
